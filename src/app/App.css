@@ -1,0 +1,33 @@
+.todo{
+  float: left;
+  width: 30vw;
+  height: 450px;
+  display: block;
+}
+.uptodoapp{
+  margin:-10px -8px 10px -8px;
+  padding:10px;
+  background-color: #616161;
+  color: white;
+}
+.display{
+  display: inline-block;
+}
+.nodisplay{
+  display: none;
+}
+.default{
+  text-decoration: line;
+  font-size: 20px;
+  display: inline-block;
+}
+.complete{
+  text-decoration: line-through;
+  font-size: 20px;
+  display: inline-block;
+}
+.inlineli{
+  display: inline;
+}
+
+
